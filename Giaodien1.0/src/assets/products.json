@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Bánh quy", "category": "Bánh", "price": 50000, "image": "/src/assets/images/product1.jpg" },
+    { "id": 2, "name": "Kẹo dẻo", "category": "Kẹo", "price": 30000, "image": "/src/assets/images/product2.jpg" },
+    { "id": 3, "name": "Socola", "category": "Kẹo", "price": 70000, "image": "/src/assets/images/product3.jpg" },
+    { "id": 4, "name": "Bánh bông lan", "category": "Bánh", "price": 45000, "image": "/src/assets/images/product4.jpg" },
+    { "id": 5, "name": "Kẹo sữa", "category": "Kẹo", "price": 25000, "image": "/src/assets/images/product5.jpg" },
+    { "id": 6, "name": "Bánh tráng", "category": "Bánh", "price": 55000, "image": "/src/assets/images/product6.jpg" },
+    { "id": 7, "name": "Kẹo chanh", "category": "Kẹo", "price": 20000, "image": "/src/assets/images/product7.jpg" },
+    { "id": 8, "name": "Bánh kem", "category": "Bánh", "price": 90000, "image": "/src/assets/images/product8.jpg" }
+  ]
