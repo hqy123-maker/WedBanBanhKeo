@@ -30,7 +30,6 @@ It includes both frontend and backend systems, supporting user authentication, p
 🔎 Other Features
 
 - Product search & filtering
-- Responsive UI (mobile & desktop)
 
 ---
 
